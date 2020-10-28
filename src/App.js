@@ -4,7 +4,7 @@ import SearchBox from './components/search'
 import Result from './components/result'
 
 const API = {
-  cle: '200b01d1422a0be035b2231349dd26ae',
+  cle: 'zaeazeeaze',
   base : 'https://api.openweathermap.org/data/2.5/'
 }
 
