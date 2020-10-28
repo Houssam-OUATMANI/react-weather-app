@@ -2,7 +2,7 @@
 
 Used API : Open weather map
 
-this app is based ob react functional components.
+This app is based on react functional components.
 
 I used the useState hook to manage the user's input
 
