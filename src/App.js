@@ -32,14 +32,14 @@ function App() {
       <main>
       <SearchBox value={city} onChange={e => setCity(e.target.value)} onKeyPress={get_weather_data} />
 
-      {(typeof weather.main != "undefined") ?
+      {(typeof weather.main != "undefined") &&
           <Result 
           temp={weather.main.temp}
           country={weather.sys.country}
           city ={weather.name}
           description ={weather.weather[0].description}
             />
-     : null}
+     }
      </main>
     </div>
   )
