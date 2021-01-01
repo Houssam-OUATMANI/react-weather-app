@@ -3,20 +3,17 @@
     font-size: 2.3rem;
     font-weight: 700;
     text-align: center;
-    text-shadow: .4rem .5rem rgba(32, 5, 5, 0.795);
-    
+    text-shadow: .4rem .5rem rgba(32, 5, 5, 0.795);   
 }
 .loc__box__country{
     font-style: italic;
     text-transform: uppercase;
 }
-
 .loc__box__date{
     font-size: 1.8rem;
     font-weight: 300;
     font-style: italic;
 }
-
 .weather__box__info{
     margin-top: .5rem;
     text-align: center;
@@ -24,7 +21,6 @@
     font-weight: 700;
     text-shadow: .2rem .2rem black;
 }
-
 .weather__box__temp{
     font-size: 8rem;
     font-style: italic;
